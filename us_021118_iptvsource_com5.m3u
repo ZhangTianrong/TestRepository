@@ -1,30 +1,39 @@
-#EXTINF:-1,NBA
-http://66.70.179.201:25461/live/Local/149018/345.ts
-
-
-
-
-
-
-
-#EXTINF:-1,NBA
-http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
-
-#EXTINF:-1,NBA
-http://27.148.240.138/PLTV/88888888/224/3221225939/index.m3u8
-
-#EXTINF:-1,NBA
-http://cms.bossna-caffe.com:80/live?channelId=366&uid=11003&deviceMac=00:1A:79:1B:37:73
-
-NBA
-http://tinyurl.com/gqya2mu
-
-
-NBA
-http://dtxj7czefrwyedxnk8eb.mine.nu:8000/NBATV?auth=euk+68256392 
-
-NBA
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1,CCTV 1 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16584.ts
+#EXTINF:-1,CCTV 11 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16576.ts
+#EXTINF:-1,CCTV 12 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16575.ts
+#EXTINF:-1,CCTV 13 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16574.ts
+#EXTINF:-1,CCTV 15 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16572.ts
+#EXTINF:-1,CCTV 2 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16583.ts
+#EXTINF:-1,CCTV 3 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16582.ts
+#EXTINF:-1,CCTV 4 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16581.ts
+#EXTINF:-1,CCTV 5  CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16580.ts
+#EXTINF:-1,CCTV 8 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16579.ts
+#EXTINF:-1,CCTV 9 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16578.ts
+#EXTINF:-1,Hollywood Movie CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16548.ts
+#EXTINF:-1,Hong Kong TV CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16549.ts
+#EXTINF:-1,Jin Ying Cartoon CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16553.ts
+#EXTINF:-1,Kaku Cartoon CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16554.ts
+#EXTINF:-1,Sport 1 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16541.ts
+#EXTINF:-1,Sport 2 CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16546.ts
+#EXTINF:-1,Tianjin TV CN
+http://mypanel.tv:8080/live/1MDip7o65r/9fZCCcScaH/16562.ts
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1,CBS News
