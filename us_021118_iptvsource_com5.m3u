@@ -1,4 +1,30 @@
-#EXTINF:-1,~ USA TV ~
+#EXTINF:-1,NBA
+http://66.70.179.201:25461/live/Local/149018/345.ts
+
+
+
+
+
+
+
+#EXTINF:-1,NBA
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8
+
+#EXTINF:-1,NBA
+http://27.148.240.138/PLTV/88888888/224/3221225939/index.m3u8
+
+#EXTINF:-1,NBA
+http://cms.bossna-caffe.com:80/live?channelId=366&uid=11003&deviceMac=00:1A:79:1B:37:73
+
+NBA
+http://tinyurl.com/gqya2mu
+
+
+NBA
+http://dtxj7czefrwyedxnk8eb.mine.nu:8000/NBATV?auth=euk+68256392 
+
+NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1,CBS News
